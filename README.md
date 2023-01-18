@@ -4,7 +4,7 @@
 React Portfolio to demonstrate coding and tech skills of [Jonathan Lipata Arevalo](https://github.com/JonaThicke274)!
  
 ## Instructions to Use:
-* Navigate to [portfolio]()!
+* Navigate to [portfolio](https://jonathicke-reactportfolio.herokuapp.com/)!
 * Review portfolio and resume!
 * Submit contact info in contact form!
 
@@ -15,7 +15,7 @@ See screenshots below:
 
 
 ## Link to Deployed Portfolio
-[Link to portfolio!]()
+[Link to portfolio!](https://jonathicke-reactportfolio.herokuapp.com/)
 
 ## Contributions/Credits
 [Jonathan Lipata Arevalo](https://github.com/JonaThicke274)
