@@ -3,6 +3,9 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.17.0"
+  },
   "dependencies": {
     "@formspree/react": "^2.2.5",
     "@testing-library/jest-dom": "^5.14.1",
@@ -19,8 +22,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "serve": "serve build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
