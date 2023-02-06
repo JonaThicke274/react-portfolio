@@ -19,10 +19,10 @@ function Footer() {
 					>
 						LinkedIn
 					</a>{" "}
-					{/* |{" "}{" "} */}
-					{/* <a href="" target="_blank" rel="noreferrer">
-						Nothing????
-					</a> */}
+					|{" "}{" "}
+					<a href="mailto:lipatajonathan274@gmail.com" target="_blank" rel="noreferrer">
+						lipatajonathan274@gmail.com
+					</a>
 				</p>
 			</div>
 		</footer>
